@@ -63,8 +63,8 @@ Each test case in the Excel file includes the following fields:
 
 ## Test Report Summary
 
-![Test Image](https://drive.google.com/file/d/1lAgU23Xj7btHoT6Fi39VltqtFr71LziX/view?usp=sharing)
 
+<img src="https://drive.google.com/file/d/1lAgU23Xj7btHoT6Fi39VltqtFr71LziX/view?usp=sharing" alt="SecureBank Test Image_Graph" width="500"/>
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.

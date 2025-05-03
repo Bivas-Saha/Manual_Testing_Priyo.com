@@ -62,7 +62,7 @@ Each test case in the Excel file includes the following fields:
 - **Remarks:** Additional notes or observations.
 
 ## Test Report Summary
-![Test Summary Report](https://ibb.co.com/93SJ8fKX)
+![Test Summary Report](https://i.ibb.co.com/2YHwnLV2/Screenshot-2025-05-03-225012.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
